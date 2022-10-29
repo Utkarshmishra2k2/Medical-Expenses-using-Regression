@@ -3,4 +3,4 @@ As the data scientist , we're tasked with creating an automated system to estima
 
 Estimates from your system will be used to determine the annual insurance premium (amount paid every month) offered to the customer.
 
-You're given a CSV file containing verified historical data, consisting of the aforementioned information and the actual medical charges incurred by over 1300 customers.
+We're given a CSV file containing verified historical data, consisting of the aforementioned information and the actual medical charges incurred by over 1300 customers.
